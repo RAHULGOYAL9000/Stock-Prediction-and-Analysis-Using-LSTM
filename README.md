@@ -78,3 +78,10 @@ All metrics are printed in the notebook after testing.
 - Rolling window approach: prediction is fed back into the model
 - Inverse transformed predictions are plotted and printed date-wise
 
+
+---
+## 📬 Author
+
+Made with ❤️ by **Rahul Goyal**  
+🔗 GitHub: [@RAHULGOYAL9000](https://github.com/RAHULGOYAL9000)
+
